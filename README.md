@@ -11,5 +11,5 @@ Major changes from EOP-1.1.2 to EOP-1.1.3:
 * pre-trained models
 
 ###### EDIT DISTANCE EDA
-* different possibilities for stop word removal (e.g. removing stop word on the bases of their part-of-speech or considering lists of provided stop words).
+* different possibilities for stop word removal.
 * different algorithms for normalized edit distance computation.
