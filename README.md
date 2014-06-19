@@ -13,9 +13,9 @@ Major changes from EOP-1.1.2 to EOP-1.1.3:
 ###### EDIT DISTANCE EDA
 * different strategies for stop word removal
 
-##### EOPRunner(i.e. EOP via command line interface)
+###### EOPRunner(i.e. EOP via command line interface)
 * better separation between processing steps: preprocessing, training, testing and scoring can each be done separately
 
-##### EOP wiki documentation:
+###### EOP wiki documentation:
 * Quick Start and Step by Step tutorial revised
-* 
+
